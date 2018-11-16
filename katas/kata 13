@@ -1,3 +1,10 @@
+Los datos correspondientes  al censo de una población (en miles de habitantes) se recogen en la siguiente tabla:
+Año 1950 1960 1970 1980 1990 2000
+Número habitantes 123.5 131.2 150.7 141.3 203.2 240.5
+a) Utilizar interpolación polinómica para estimar el número de habitantes en el año 1965.
+b) Utilizar el método de Lagrange para estimar el número de habitantes en el año 1965.
+
+
 A)-------------------------------------------------------------------------------------------
 # Polinomio de interpolación
 import matplotlib.pyplot as plt
