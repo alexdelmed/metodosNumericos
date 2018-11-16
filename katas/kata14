@@ -1,3 +1,13 @@
+Dado
+y' = 2xy con y(1) = 1 Enctontrar el valor de y(1.5) utilizando 
+a) h = 0.1 
+
+b) h = 0.05
+
+(Resolver por el método de Euler)
+
+
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
